@@ -1,0 +1,22 @@
+.colorsForm {
+	background-color: #dbefb9;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.roundedCorners {
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+
+.tile {
+	height: 100px;
+	padding-top: 20px;
+}
+
+.firstRow {
+	margin-bottom: 20px;
+}
